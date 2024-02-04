@@ -1,4 +1,4 @@
-This repo contains my further custom projects and showcase using Python, regarding to different Statistics/Data Science areas including:
+This repo contains my further projects and showcase using Python, regarding to different Statistics/Data Science areas including:
 
 <H1>statistics</H1>
 <ol>
