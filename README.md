@@ -2,9 +2,12 @@ This repo will keep updating. This contains my further projects and showcase usi
 
 <H1>statistics</H1>
 <ol>
-   <li>Regression</li>
-   <li>Multivariate Statistics</li>
+   <li>Linear regression</li>
+   <li>Logistic regression</li>
+   <li>Poisson regression</li>
+   <li>other types of GLM</li>
    <li>Time Series Analysis</li>
+   <li>Multivariate Statistics</li>
 </ol>
 
 <H1>Data Science</H1>
